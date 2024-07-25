@@ -1,0 +1,72 @@
+.signin-box {
+    background-color: #ffffff;
+    border-radius: 30px;
+}
+
+.sg-h1 h1 {
+    font-size: 36px;
+    font-weight: 600;
+    color: #1f1f1f;
+}
+
+.sg-h4 h4 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #747775;
+}
+
+.sg-inp input {
+    font-size: 16px;
+    color: #747775;
+    font-weight: 600;
+    border: 1px solid black;
+}
+
+.sg-btn .btn2 {
+    background-color: transparent;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: #0B57D0;
+    padding: 0px;
+}
+
+.sg-btn .btn1 {
+    background-color: #0B57D0;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+.sg-btn .btn3 {
+    background-color: #505050;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.sg-btn .span1 {
+    font-size: 14px;
+    font-weight: 600;
+    color: #747775;
+    margin-bottom: 0px;
+}
+
+.sg-btn .span2 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.sg-line div {
+    border-bottom: 2px solid #a4a8a5;
+}
+
+.sg-btn:hover {
+    opacity: 0.9;
+}

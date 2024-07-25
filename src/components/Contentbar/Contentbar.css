@@ -1,0 +1,67 @@
+.content {
+    height: 100vh;
+}
+
+.ct-inp input {
+    background-color: #f1f3f4;
+    border: none;
+    color: #5F6368;
+    font-weight: 550;
+}
+
+.ct-icn button,
+.ct-img button {
+    background-color: transparent;
+    border: none;
+    font-size: 25px;
+    font-weight: 600;
+    color: #5F6368;
+}
+
+.ct-bg {
+    height: 90%;
+    overflow-y: scroll;
+    background-color: #ffffff;
+    border-radius: 30px;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.dr-h4 h4 {
+    font-size: 20px;
+    color: #161616;
+    font-weight: 600;
+}
+
+.dr-h4 h5 {
+    font-size: 14px;
+    color: #7c8186;
+    font-weight: 600;
+}
+
+.dr-btn button {
+    background-color: #0B57D0;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 8px;
+    padding: 6px 16px;
+}
+
+.hd-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.hd-img2 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}

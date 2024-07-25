@@ -1,0 +1,70 @@
+.vw-btn button {
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    font-weight: 600;
+    color: #444746;
+    padding: 8px;
+}
+
+.vw-btn2 button {
+    background-color: #0B57D0;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: #ffffff;
+    padding: 10px 25px;
+    border-radius: 25px;
+}
+
+.vw-h2 h2 {
+    font-size: 28px;
+    color: #1f1f1f;
+    font-weight: 600;
+}
+
+.vw-btn button:hover {
+    background-color: rgba(171, 171, 171, 0.35);
+    border-radius: 100%;
+}
+
+.vw-btn3 button {
+    background-color: rgba(171, 171, 171, 0.35);
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #747775;
+    padding: 8px 12px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.vw-line div {
+    border-bottom: 2px solid #a4a8a5;
+}
+
+.vw-box {
+    background-color: #f0f4f9;
+    border-radius: 15px;
+}
+
+.vw-box h2 {
+    font-size: 16px;
+    color: #1f1f1f;
+    font-weight: 600;
+}
+
+.vw-btn4 button {
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: #4a4a4a;
+}
+
+.vw-btn4 button span {
+    font-size: 14px;
+    font-weight: 600;
+    color: #4a4a4a;
+    padding-left: 8px;
+}

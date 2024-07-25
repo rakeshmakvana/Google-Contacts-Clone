@@ -1,0 +1,12 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Manrope", "Open Sans";
+}
+
+.container2 {
+    background-color: #F0F4F9;
+}

@@ -1,0 +1,93 @@
+.ct-h1 h1 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #444746;
+}
+
+thead {
+    border-bottom: 1px solid rgb(55, 54, 54);
+}
+
+thead th {
+    font-size: 14px;
+    font-weight: 600;
+    color: #444746;
+    padding-left: 12px;
+    padding-bottom: 8px;
+}
+
+thead th button {
+    font-size: 16px;
+    font-weight: 700;
+    color: #444746;
+    padding-left: 12px;
+    padding-bottom: 8px;
+    background-color: transparent;
+    border: none;
+}
+
+td {
+    font-size: 14px;
+    font-weight: 600;
+    color: #1f1f1f;
+    padding: 14px 10px;
+}
+
+td button {
+    font-size: 16px;
+    font-weight: 700;
+    color: #1f1f1f;
+    padding: 14px 10px;
+    background-color: transparent;
+    border: none;
+    padding: 10px;
+    opacity: 0;
+}
+
+td button:hover {
+    background-color: rgba(171, 171, 171, 0.35);
+    border-radius: 100%;
+}
+
+tbody:hover {
+    background-color: rgba(194, 231, 255, 0.35);
+}
+
+tbody:hover td button {
+    opacity: 1;
+}
+
+tbody:hover td img {
+    opacity: 0.2;
+}
+
+tbody td img{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.fr-icn span {
+    font-size: 40px;
+    font-weight: 500;
+    color: #424242;
+}
+
+.fr-icn-2 span {
+    font-size: 22px;
+    font-weight: 500;
+    color: #424242;
+    text-align: center;
+}
+
+.modal-content {
+    background-color: #F0F4F9;
+    border-radius: 30px;
+}
+
+.err-h2 h2 {
+    font-size: 30px;
+    font-weight: 600;
+    padding: 20px;
+}

@@ -1,0 +1,59 @@
+.sidebar {
+    height: 100%;
+}
+
+.sd-img {
+    background-color: transparent;
+    border: none;
+}
+
+.sd-img img {
+    width: 90%;
+}
+
+.sd-img h1 {
+    font-size: 23px;
+    font-weight: 600;
+    color: #5F6368;
+    margin: 0px;
+}
+
+.sd-btn {
+    background-color: #C2E7FF;
+    border-radius: 14px;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: #001D35;
+    transition: all 0.5s;
+}
+
+.sd-btn:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.sd-btn-2 {
+    background-color: transparent;
+    border-radius: 14px;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #444746;
+    margin: 0px;
+}
+
+.sd-btn-2.active {
+    color: #001D35 !important;
+    background-color: #C2E7FF !important;
+}
+
+.sd-btn-2:hover {
+    background-color: rgba(194, 231, 255, 0.35);
+}
+
+.sd-ct h3 {
+    font-size: 14px;
+    font-weight: 700;
+    color: #444776;
+    margin: 0px;
+}

@@ -1,0 +1,68 @@
+.ad-btn button {
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    font-weight: 600;
+    color: #444746;
+    padding: 8px;
+}
+
+.ad-btn2 {
+    position: absolute;
+    top: -45%;
+    right: 43%;
+}
+
+.ad-btn2 button {
+    background-color: #0B57D0;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: #ffffff;
+    padding: 10px 25px;
+    border-radius: 25px;
+}
+
+.ad-btn2 button:hover {
+    opacity: 0.9;
+}
+
+.ad-btn button:hover {
+    background-color: rgba(171, 171, 171, 0.35);
+    border-radius: 100%;
+}
+
+.add-text {
+    font-size: 22px;
+    color: #747775;
+    font-weight: 700;
+}
+
+.add-inp input,
+.add-inp textarea {
+    font-size: 16px;
+    color: #747775;
+    font-weight: 600;
+    border: 1px solid black;
+}
+
+.ad-btn3 button {
+    background-color: transparent;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: #0B57D0;
+}
+
+.add-h2 h2 {
+    font-size: 28px;
+    color: #1f1f1f;
+    font-weight: 600;
+}
+
+.ad-img img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
